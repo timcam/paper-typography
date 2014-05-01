@@ -1,0 +1,1 @@
+This is the repo for the Dynamic Typography paper. Right now it's mostly a collection of thoughts. 
